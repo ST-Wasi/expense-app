@@ -10,3 +10,15 @@ body {
     color-scheme: dark;
   }
 }
+.size-18 {
+  font-size: 18px !important;
+}
+.size-16 {
+  font-size: 16px !important;
+}
+.size-14 {
+  font-size: 14px !important;
+}
+.size-12 {
+  font-size: 12px !important;
+}
